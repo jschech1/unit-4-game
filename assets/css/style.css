@@ -1,0 +1,43 @@
+.crystalImage  {
+    width: 100px;
+    height: 100px;
+}
+
+#instructions {
+    font-weight: normal;
+    line-height: 120%;
+    font-size: 20px;
+}
+
+.header {
+    background: lightgray;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.numberToMatch{
+    background: lightseagreen;
+    font-size: 20px;
+    width: 400px;
+    padding: 30px 0px;
+}
+
+.winsAndLosses{
+    background: lightsalmon;
+    font-size: 20px;
+    width: 400px;
+    padding: 30px 0px;
+}
+
+.score{
+    background: lightskyblue;
+    font-size: 20px;
+    width: 400px;
+    padding: 30px 0px;
+}
+
